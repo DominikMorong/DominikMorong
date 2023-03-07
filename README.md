@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DominikMorong.
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning Java & SQL.
-- 💞️ I’m looking to collaborate on any Java projects.
+- 🌱 I’m currently learning Java, Python, SQL & JavaScript.
+- 💞️ I’m looking to collaborate on any Junior projects for experience.
 - 📫 How to reach me :
 - dodominik.morong@gmail.com
 
